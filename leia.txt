@@ -1,0 +1,2 @@
+Index.html pega a informações e passa via POST para o heheboy.php
+e depois o email é montado e enviado e a pessoa é redirecionada para o show.php '-' q merda
